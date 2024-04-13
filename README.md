@@ -1,6 +1,14 @@
+SALES DATA ANALYSIS
+
+Overview
+
 This data analysis project seeks to uncover insights into the sales performance of an E-commerce company over the past four years. Through a comprehensive analysis of the sales data, we aim to identify trends, provide data-driven recommendations, and gain a more profound understanding of the company's performance.
 
+Tools Used
+
 Microsoft Excel - Data Cleaning, Data Analysis, Dashboards
+
+Analysis
 
 Here's a summary of the analysis results:
 
